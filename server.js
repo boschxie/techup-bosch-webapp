@@ -96,6 +96,7 @@ app.post("/delete/:id", async (req, res) => {
     }
   });
 
+  // this is to get the page for demo.ejs up
   app.get('/demo', function(req, res) {
     res.render('pages/demo');
   });
