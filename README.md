@@ -1,5 +1,5 @@
 "# techup-dta" </br>
--👋 Hi, I’m YC, doing up this project for submission.</br>
+-👋 Hi, I’m Bosch.</br>
 -👀 I’m interested in what make things work.</br>
 -🌱 I’m currently learning web app development.</br>
 -💞️ I’m looking to collaborate on new technologies in developing web app.</br>
